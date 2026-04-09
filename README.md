@@ -2,7 +2,7 @@
 
 **Data Scientist & Team Leader | ML, NLP & Advanced Analytics**
 
-I build ML and NLP systems that translate complex analytics into measurable business outcomes — across financial services, manufacturing, technology, and government.
+I build ML and NLP systems that translate complex analytics into measurable business outcomes — across financial services, manufacturing, technology, and governance.
 
 I've led enterprise AI initiatives at CIBC (NLP compliance automation, predictive data observability, agentic RAG systems) and drove $30M+ in verified ROI at Tesla through advanced process analytics on next-generation battery manufacturing.
 
@@ -22,9 +22,9 @@ I've led enterprise AI initiatives at CIBC (NLP compliance automation, predictiv
 | Project | Description |
 |---------|-------------|
 | [**DataLens**](https://github.com/jrbickelh/enterprise-datalens) | Autonomous multi-agent BI platform — LangGraph, hybrid RAG (BM25 + vector), self-healing SQL, YAML semantic layer |
-| [**ORCA**](https://github.com/jrbickelh/orca) | LLM-enhanced algorithmic trading pipeline — multi-source sentiment aggregation, risk-gated execution, Bayesian optimization |
+| [**Sovos**](https://github.com/jrbickelh/sovos) |  Sovereign AI Operating System — persistent, autonomous agent on personal hardware |
 | [**Nertia**](https://github.com/jrbickelh/Nertia) | Personal AI agent built with Claude Agent SDK — multi-tool orchestration, RAG memory via ChromaDB, proactive scheduling |
-| [**BlueBERT**](https://github.com/jrbickelh/BlueBERT) | Stock market prediction via Twitter sentiment NLP — BERT-based sentiment scoring cross-referenced with time-series forecasting |
+| [**ORCA**](https://github.com/jrbickelh/orca) | LLM-enhanced algorithmic trading pipeline — multi-source sentiment aggregation, risk-gated execution, Bayesian optimization |
 
 ---
 
